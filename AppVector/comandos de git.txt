@@ -1,0 +1,10 @@
+ git config --global user.name "johnn michael"
+$ git config --global user.email "sistemasscz3@gmail.com"
+
+$ git init
+$ git add . 
+git commit-m "este es mi primer commit" 
+
+git branch -M main
+git remote add origin https://github.com/ "aqui nombre de lo que aparece en el git"
+git push -u origin main
